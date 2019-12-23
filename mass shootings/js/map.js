@@ -36,7 +36,7 @@ function tipMouseover(d) {
   this.setAttribute("class", "circle-hover"); // add hover class to emphasize
 
 
-  var html  = d.city+ ", " + d.state + "<br>" + "<br>" + d.victims + " victims" + "<br>" + "<br>" + d.date;
+  //var html  = d.city+ ", " + d.state + "<br>" + "<br>" + d.victims + " victims" + "<br>" + "<br>" + d.date;
 
   tooltip.html(html)
       .style("left", (d3.event.pageX + 15) + "px")
