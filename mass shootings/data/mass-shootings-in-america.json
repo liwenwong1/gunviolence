@@ -1,0 +1,3072 @@
+    [ 
+        {
+            "id": 1,
+            "city": "Ferguson",
+            "state": "MO",
+            "victims": 4,
+            "year": 2016,
+            "date": "04-29-2016",
+            "latitude": 38.744,
+            "longitude": -90.305
+        },
+        {
+            "id": 2,
+            "city": "Forestville",
+            "state": "MD",
+            "victims": 5,
+            "year": 2016,
+            "date": "04-26-2016",
+            "latitude": 38.845,
+            "longitude": -76.875
+        },
+        {
+            "id": 3,
+            "city": "Halifax",
+            "state": "VA",
+            "victims": 6,
+            "year": 2016,
+            "date": "04-24-2016",
+            "latitude": 36.766,
+            "longitude": -78.928
+        },
+        {
+            "id": 4,
+            "city": "Baltimore",
+            "state": "MD",
+            "victims": 4,
+            "year": 2016,
+            "date": "04-21-2016",
+            "latitude": 39.290,
+            "longitude": -76.612
+        },
+        {
+            "id": 5,
+            "city": "Katy",
+            "state": "TX",
+            "victims": 4,
+            "year": 2016,
+            "date": "04-19-2016",
+            "latitude": 29.786,
+            "longitude": -95.824
+        },
+        {
+            "id": 6,
+            "city": "Brooksville",
+            "state": "AL",
+            "victims": 4,
+            "year": 2016,
+            "date": "04-19-2016",
+            "latitude": 34.162,
+            "longitude": -86.476
+        },
+        {
+            "id": 7,
+            "city": "Chicago",
+            "state": "IL",
+            "victims": 5,
+            "year": 2016,
+            "date": "04-19-2016",
+            "latitude": 41.878,
+            "longitude": -87.630
+        },
+        {
+            "id": 8,
+            "city": "Long Beach",
+            "state": "CA",
+            "victims": 4,
+            "year": 2016,
+            "date": "04-18-2016",
+            "latitude": 33.770,
+            "longitude": -118.194
+        },
+        {
+            "id": 9,
+            "city": "Memphis",
+            "state": "TN",
+            "victims": 4,
+            "year": 2016,
+            "date": "04-09-2016",
+            "latitude": 35.150,
+            "longitude": -90.049
+        },
+        {
+            "id": 10,
+            "city": "Albuquerque",
+            "state": "NM",
+            "victims": 4,
+            "year": 2016,
+            "date": "04-09-2016",
+            "latitude": 35.085,
+            "longitude": -106.606
+        },
+        {
+            "id": 11,
+            "city": "Chicago",
+            "state": "IL",
+            "victims": 5,
+            "year": 2016,
+            "date": "04-07-2016",
+            "latitude": 41.878,
+            "longitude": -87.630
+        },
+        {
+            "id": 12,
+            "city": "Albuquerque",
+            "state": "NM",
+            "victims": 3,
+            "year": 2016,
+            "date": "04-01-2016",
+            "latitude": 35.085,
+            "longitude": -106.606
+        },
+        {
+            "id": 13,
+            "city": "Richmond",
+            "state": "VA",
+            "victims": 3,
+            "year": 2016,
+            "date": "03-31-2016",
+            "latitude": 37.541,
+            "longitude": -77.436
+        },
+        {
+            "id": 14,
+            "city": "Louisburg",
+            "state": "NC",
+            "victims": 3,
+            "year": 2016,
+            "date": "03-26-2016",
+            "latitude": 36.099,
+            "longitude": -78.301
+        },
+        {
+            "id": 15,
+            "city": "Lawrenceburg",
+            "state": "TN",
+            "victims": 3,
+            "year": 2016,
+            "date": "03-25-2016",
+            "latitude": 35.242,
+            "longitude": -87.335
+        },
+        {
+            "id": 16,
+            "city": "Greenhill",
+            "state": "AL",
+            "victims": 3,
+            "year": 2016,
+            "date":"03-25-2016",
+            "latitude": 34.759,
+            "longitude": -86.602
+        },
+        {
+            "id": 17,
+            "city": "Sherman",
+            "state": "TX",
+            "victims": 3,
+            "year": 2016,
+            "date": "03-21-2016",
+            "latitude": 33.636,
+            "longitude": -96.609
+        },
+        {
+            "id": 18,
+            "city": "Sherman",
+            "state": "TX",
+            "victims": 3,
+            "year": 2016,
+            "date": "03-21-2016",
+            "latitude": 33.636,
+            "longitude": -96.609
+        },
+        {
+            "id": 19,
+            "city": "Louisville",
+            "state": "KY",
+            "victims": 3,
+            "year": 2016,
+            "date":"03-20-2016",
+            "latitude": 38.253,
+            "longitude": -85.758
+        },
+        {
+            "id": 20,
+            "city": "Louisville",
+            "state": "KY",
+            "victims": 3,
+            "year": 2016,
+            "date":"03-20-2016",
+            "latitude": 38.253,
+            "longitude": -85.758
+        },
+        {
+            "id": 21,
+            "city": "Plantation",
+            "state": "FL",
+            "victims": 5,
+            "year": 2016,
+            "date": "03-19-2016",
+            "latitude": 26.128,
+            "longitude": -80.233
+        },
+        {
+            "id": 22,
+            "city": "Plantation",
+            "state": "FL",
+            "victims": 5,
+            "year": 2016,
+            "date": "03-19-2016",
+            "latitude": 26.128,
+            "longitude": -80.233
+        },
+        {
+            "id": 23,
+            "city": "Wetumpka",
+            "state": "AL",
+            "victims": 4,
+            "year": 2016,
+            "date": "03-19-2016",
+            "latitude": 32.544,
+            "longitude": -86.212
+        },
+        {
+            "id": 24,
+            "city": "Atlanta",
+            "state": "GA",
+            "victims": 4,
+            "year": 2016,
+            "date": "03-15-2016",
+            "latitude": 33.749,
+            "longitude": -84.388
+        },
+        {
+            "id": 25,
+            "city": "Fort Myers",
+            "state": "FL",
+            "victims": 4,
+            "year": 2016,
+            "date": "03-13-2016",
+            "latitude": 26.641,
+            "longitude": -81.872
+        },
+        {
+            "id": 26,
+            "city": "Elberton",
+            "state": "GA",
+            "victims": 3,
+            "year": 2016,
+            "date": "03-12-2016",
+            "latitude": 34.111,
+            "longitude": -82.867
+        },
+        {
+            "id": 27,
+            "city": "Trenton",
+            "state": "NJ",
+            "victims": 5,
+            "year": 2016,
+            "date": "03-11-2016",
+            "latitude": 40.217,
+            "longitude": -74.743
+        },
+        {
+            "id": 28,
+            "city": "Detriot",
+            "state": "MI",
+            "victims": 4,
+            "year": 2016,
+            "date": "03-11-2016",
+            "latitude": 42.331,
+            "longitude": -83.046
+        },
+        {
+            "id": 29,
+            "city": "Wilkinsburg",
+            "state": "PA",
+            "victims": 8,
+            "year": 2016,
+            "date": "03-09-2016",
+            "latitude": 40.442,
+            "longitude": -79.882
+        },
+        {
+            "id": 30,
+            "city": "Pittsburgh",
+            "state": "PA",
+            "victims": 9,
+            "year": 2016,
+            "date": "03-09-2016",
+            "latitude": 40.441,
+            "longitude": -79.996
+        },
+        {
+            "id": 31,
+            "city": "Kansas City",
+            "state": "KS",
+            "victims": 5,
+            "year": 2016,
+            "date": "03-07-2016",
+            "latitude": 39.114,
+            "longitude": -94.627
+        },
+        {
+            "id": 32,
+            "city": "Kansas City",
+            "state": "KS",
+            "victims": 5,
+            "year": 2016,
+            "date": "03-07-2016",
+            "latitude": 39.114,
+            "longitude": -94.627
+        },
+        {
+            "id": 33,
+            "city": "Lafayette",
+            "state": "LA",
+            "victims": 4,
+            "year": 2016,
+            "date": "03-07-2016",
+            "latitude": 30.224,
+            "longitude": -92.020
+        },
+        {
+            "id": 34,
+            "city": "Roswell",
+            "state": "GA",
+            "victims": 4,
+            "year": 2016,
+            "date": "03-06-2016",
+            "latitude": 34.023,
+            "longitude": -84.362
+        },
+        {
+            "id": 35,
+            "city": "Chelsa",
+            "state": "MA",
+            "victims": 7,
+            "year": 2016,
+            "date": "03-06-2016",
+            "latitude": 42.392,
+            "longitude": -71.033
+        },
+        {
+            "id": 36,
+            "city": "Chelsa",
+            "state": "MA",
+            "victims": 7,
+            "year": 2016,
+            "date": "03-06-2016",
+            "latitude": 42.392,
+            "longitude": -71.033
+        },
+        {
+            "id": 37,
+            "city": "Wichita",
+            "state": "KS",
+            "victims": 4,
+            "year": 2016,
+            "date": "03-05-2016",
+            "latitude": 37.687,
+            "longitude": -97.330
+        },
+        {
+            "id": 38,
+            "city": "Jurupa Valley",
+            "state": "CA",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-28-2016",
+            "latitude": 33.997,
+            "longitude": -117.485
+        },
+        {
+            "id": 39,
+            "city": "Detriot",
+            "state": "MI",
+            "victims": 5,
+            "year": 2016,
+            "date": "02-28-2016",
+            "latitude": 42.331,
+            "longitude": -83.046
+        },
+        {
+            "id": 40,
+            "city": "Woodbridge",
+            "state": "VA",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-27-2016",
+            "latitude": 38.670,
+            "longitude": -77.352
+        },
+        {
+            "id": 41,
+            "city": "Belfair",
+            "state": "WA",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-26-2016",
+            "latitude": 47.503,
+            "longitude": -122.931
+        },
+        {
+            "id": 42,
+            "city": "Hesston",
+            "state": "KS",
+            "victims": 17,
+            "year": 2016,
+            "date": "02-25-2016",
+            "latitude": 38.137,
+            "longitude": -97.427
+        },
+        {
+            "id": 43,
+            "city": "Belfair",
+            "state": "WA",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-25-2016",
+            "latitude": 47.451,
+            "longitude": -122.827
+        },
+        {
+            "id": 44,
+            "city": "Phoenix",
+            "state": "AZ",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-23-2016",
+            "latitude": 33.448,
+            "longitude": -112.074
+        },
+        {
+            "id": 45,
+            "city": "Glendale",
+            "state": "AZ",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-23-2016",
+            "latitude": 33.593,
+            "longitude": -112.163
+        },
+        {
+            "id": 46,
+            "city": "Hazelwood",
+            "state": "MO",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-21-2016",
+            "latitude": 38.771,
+            "longitude": -90.371
+        },
+        {
+            "id": 47,
+            "city": "Houston",
+            "state": "TX",
+            "victims": 5,
+            "year": 2016,
+            "date": "02-21-2016",
+            "latitude": 29.760,
+            "longitude": -95.370
+        },
+        {
+            "id": 48,
+            "city": "Kalamazoo",
+            "state": "MI",
+            "victims": 8,
+            "year": 2016,
+            "date": "02-20-2016",
+            "latitude": 42.235,
+            "longitude": -85.676
+        },
+        {
+            "id": 49,
+            "city": "Iuka",
+            "state": "MS",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-20-2016",
+            "latitude": 34.740,
+            "longitude": -88.138
+        },
+        {
+            "id": 50,
+            "city": "Tampa",
+            "state": "FL",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-20-2016",
+            "latitude": 27.951,
+            "longitude": -82.457
+        },
+        {
+            "id": 51,
+            "city": "Kalamazoo",
+            "state": "MI",
+            "victims": 8,
+            "year": 2016,
+            "date": "02-20-2016",
+            "latitude": 42.292,
+            "longitude": -85.587
+        },
+        {
+            "id": 52,
+            "city": "Vallejo",
+            "state": "CA",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-19-2016",
+            "latitude": 38.104,
+            "longitude": -122.257
+        },
+        {
+            "id": 53,
+            "city": "Musjegon Height",
+            "state": "MI",
+            "victims": 3,
+            "year": 2016,
+            "date": "02-09-2016",
+            "latitude": 43.201,
+            "longitude": -86.239
+        },
+        {
+            "id": 54,
+            "city": "Rochester",
+            "state": "NY",
+            "victims": 8,
+            "year": 2016,
+            "date": "02-07-2016",
+            "latitude": 43.161,
+            "longitude": -77.611
+        },
+        {
+            "id": 55,
+            "city": "Orlando",
+            "state": "FL",
+            "victims": 12,
+            "year": 2016,
+            "date": "02-07-2016",
+            "latitude": 28.454,
+            "longitude": -81.465
+        },
+        {
+            "id": 56,
+            "city": "Tampa",
+            "state": "FL",
+            "victims": 8,
+            "year": 2016,
+            "date": "02-06-2016",
+            "latitude": 27.951,
+            "longitude": -82.457
+        },
+        {
+            "id": 57,
+            "city": "Los Angeles",
+            "state": "CA",
+            "victims": 4,
+            "year": 2016,
+            "date": "02-06-2016",
+            "latitude": 34.052,
+            "longitude": -118.244
+        },
+        {
+            "id": 58,
+            "city": "Uvalde",
+            "state": "TX",
+            "victims": 3,
+            "year": 2016,
+            "date": "02-06-2016",
+            "latitude": 29.210,
+            "longitude": -99.786
+        },
+        {
+            "id": 59,
+            "city": "New Orleans",
+            "state": "LA",
+            "victims": 3,
+            "year": 2016,
+            "date": "01-31-2016",
+            "latitude": 29.951,
+            "longitude": -90.72
+        },
+        {
+            "id": 60,
+            "city": "Glendale",
+            "state": "AZ",
+            "victims": 8,
+            "year": 2016,
+            "date": "01-30-2016",
+            "latitude": 33.539,
+            "longitude": -112.186
+        },
+        {
+            "id": 61,
+            "city": "Caroline",
+            "state": "VA",
+            "victims": 3,
+            "year": 2016,
+            "date": "01-29-2016",
+            "latitude": 38.045,
+            "longitude": -77.286
+        },
+        {
+            "id": 62,
+            "city": "Chesapeake",
+            "state": "VA",
+            "victims": 5,
+            "year": 2016,
+            "date": "01-27-2016",
+            "latitude": 36.792,
+            "longitude": -76.329
+        },
+        {
+            "id": 63,
+            "city": "Chesapeake",
+            "state": "VA",
+            "victims": 5,
+            "year": 2016,
+            "date": "01-27-2016",
+            "latitude": 36.792,
+            "longitude": -76.329
+        },
+        {
+            "id": 64,
+            "city": "Perris",
+            "state": "CA",
+            "victims": 5,
+            "year": 2016,
+            "date": "01-25-2016",
+            "latitude": 33.783,
+            "longitude": -117.229
+        },
+        {
+            "id": 65,
+            "city": "Los Angeles",
+            "state": "CA",
+            "victims": 4,
+            "year": 2016,
+            "date": "01-23-2016",
+            "latitude": 34.052,
+            "longitude": -118.244
+        },
+        {
+            "id": 66,
+            "city": "Crestview",
+            "state": "FL",
+            "victims": 3,
+            "year": 2016,
+            "date": "01-23-2016",
+            "latitude": 30.754,
+            "longitude": -86.573
+        },
+        {
+            "id": 67,
+            "city": "Ware Neck",
+            "state": "VA",
+            "victims": 4,
+            "year": 2016,
+            "date": "01-17-2016",
+            "latitude": 37.403,
+            "longitude": -76.459
+        },
+        {
+            "id": 68,
+            "city": "Wilmington",
+            "state": "DE",
+            "victims": 5,
+            "year": 2016,
+            "date": "01-11-2016",
+            "latitude": 39.739,
+            "longitude": -75.540
+        },
+        {
+            "id": 69,
+            "city": "Memphis",
+            "state": "TN",
+            "victims": 4,
+            "year": 2016,
+            "date": "01-07-2016",
+            "latitude": 35.150,
+            "longitude": -90.049
+        },
+        {
+            "id": 70,
+            "city": "Lakeland",
+            "state": "FL",
+            "victims": 4,
+            "year": 2016,
+            "date": "01-06-2016",
+            "latitude": 28.039,
+            "longitude": -81.950
+        },
+        {
+            "id": 71,
+            "city": "Omaha",
+            "state": "NE",
+            "victims": 5,
+            "year": 2015,
+            "date": "12-06-2015",
+            "latitude": 41.341,
+            "longitude": -96.081
+        },
+        {
+            "id": 72,
+            "city": "San Bernardino",
+            "state": "CA",
+            "victims": 35,
+            "year": 2015,
+            "date": "12-02-2015",
+            "latitude": 34.140,
+            "longitude": -117.294
+        },
+        {
+            "id": 73,
+            "city": "Colorado Springs",
+            "state": "CO",
+            "victims": 12,
+            "year": 2015,
+            "date": "11-27-2015",
+            "latitude": 38.867,
+            "longitude": -104.757
+        },
+        {
+            "id": 74,
+            "city": "Minneapolis",
+            "state": "MN",
+            "victims": 5,
+            "year": 2015,
+            "date": "11-23-2015",
+            "latitude": 44.964,
+            "longitude": -93.268
+        },
+        {
+            "id": 75,
+            "city": "Columbus",
+            "state": "OH",
+            "victims": 4,
+            "year": 2015,
+            "date": "11-23-2015",
+            "latitude": 39.989,
+            "longitude": -82.989
+        },
+        {
+            "id": 76,
+            "city": "Tennessee Colony",
+            "state": "TN",
+            "victims": 6,
+            "year": 2015,
+            "date": "11-15-2015",
+            "latitude": 31.808,
+            "longitude": -95.807
+        },
+        {
+            "id": 77,
+            "city": "Jacksonville",
+            "state": "FL",
+            "victims": 4,
+            "year": 2015,
+            "date": "11-13-2015",
+            "latitude": 30.332,
+            "longitude": -81.676
+        },
+        {
+            "id": 78,
+            "city": "Waycross",
+            "state": "GA",
+            "victims": 3,
+            "year": 2015,
+            "date": "11-07-2015",
+            "latitude": 32.211,
+            "longitude": -82.358
+        },
+        {
+            "id": 79,
+            "city": "Okland",
+            "state": "ME",
+            "victims": 3,
+            "year": 2015,
+            "date": "11-04-2016",
+            "latitude": 44.550,
+            "longitude": -69.708
+        },
+        {
+            "id": 80,
+            "city": "Colorado Springs",
+            "state": "CO",
+            "victims": 3,
+            "year": 2015,
+            "date": "10-31-2015",
+            "latitude": 38.867,
+            "longitude": -104.757
+        },
+        {
+            "id": 81,
+            "city": "Township of Colerain",
+            "state": "OH",
+            "victims": 3,
+            "year": 2015,
+            "date": "10-21-2015",
+            "latitude": 39.253,
+            "longitude": -84.600
+        },
+        {
+            "id": 82,
+            "city": "Flagstaff",
+            "state": "AZ",
+            "victims": 4,
+            "year": 2015,
+            "date": "10-09-2015",
+            "latitude": 35.173,
+            "longitude": -111.659
+        },
+        {
+            "id": 83,
+            "city": "Inglis",
+            "state": "FL",
+            "victims": 3,
+            "year": 2015,
+            "date": "10-01-2015",
+            "latitude": 29.003,
+            "longitude": -82.659
+        },
+        {
+            "id": 84,
+            "city": "Roseburg",
+            "state": "OR",
+            "victims": 16,
+            "year": 2015,
+            "date": "10-01-2015",
+            "latitude": 43.222,
+            "longitude": -123.352
+        },
+        {
+            "id": 85,
+            "city": "Greenville",
+            "state": "GA",
+            "victims": 10,
+            "year": 2015,
+            "date": "09-27-2015",
+            "latitude": 33.029,
+            "longitude": -84.714
+        },
+        {
+            "id": 86,
+            "city": "Platte",
+            "state": "SD",
+            "victims": 5,
+            "year": 2015,
+            "date": "09-17-2015",
+            "latitude": 43.387,
+            "longitude": -98.844
+        },
+        {
+            "id": 87,
+            "city": "Clearbrook",
+            "state": "MN",
+            "victims": 4,
+            "year": 2015,
+            "date": "09-10-2015",
+            "latitude": 47.696,
+            "longitude": -95.428
+        },
+        {
+            "id": 88,
+            "city": "Bristol",
+            "state": "TN",
+            "victims": 4,
+            "year": 2015,
+            "date": "08-29-2015",
+            "latitude": 36.556,
+            "longitude": -82.214
+        },
+        {
+            "id": 89,
+            "city": "Roanoke",
+            "state": "VA",
+            "victims": 3,
+            "year": 2015,
+            "date": "08-26-2015",
+            "latitude": 37.278,
+            "longitude": -79.958
+        },
+        {
+            "id": 90,
+            "city": "Rochester",
+            "state": "NY",
+            "victims": 7,
+            "year": 2015,
+            "date": "08-19-2015",
+            "latitude": 43.170,
+            "longitude": -77.614
+        },
+        {
+            "id": 91,
+            "city": "Houston",
+            "state": "TX",
+            "victims": 8,
+            "year": 2015,
+            "date": "08-08-2015",
+            "latitude": 29.797,
+            "longitude": -95.368
+        },
+        {
+            "id": 92,
+            "city": "Lafayette",
+            "state": "LA",
+            "victims": 11,
+            "year": 2015,
+            "date": "07-23-2015",
+            "latitude": 30.212,
+            "longitude": -92.032
+        },
+        {
+            "id": 93,
+            "city": "Suwanee",
+            "state": "GA",
+            "victims": 4,
+            "year": 2015,
+            "date": "07-22-2015",
+            "latitude": 34.051,
+            "longitude": -84.069
+        },
+        {
+            "id": 94,
+            "city": "Chattanooga",
+            "state": "TN",
+            "victims": 7,
+            "year": 2015,
+            "date": "07-16-2015",
+            "latitude": 35.093,
+            "longitude": -85.237
+        },
+        {
+            "id": 95,
+            "city": "River Forest",
+            "state": "IL",
+            "victims": 4,
+            "year": 2015,
+            "date": "07-12-2015",
+            "latitude": 41.895,
+            "longitude": -87.819
+        },
+        {
+            "id": 96,
+            "city": "Morven",
+            "state": "NC",
+            "victims": 4,
+            "year": 2015,
+            "date": "06-20-2015",
+            "latitude": 34.864,
+            "longitude": -80.000
+        },
+        {
+            "id": 97,
+            "city": "Charleston",
+            "state": "SC",
+            "victims": 9,
+            "year": 2015,
+            "date": "06-17-2015",
+            "latitude": 32.813,
+            "longitude": -79.967
+        },
+        {
+            "id": 98,
+            "city": "Miami Gardens",
+            "state": "FL",
+            "victims": 4,
+            "year": 2015,
+            "date": "06-16-2015",
+            "latitude": 25.943,
+            "longitude": -80.243
+        },
+        {
+            "id": 99,
+            "city": "Deer Lodge",
+            "state": "MT",
+            "victims": 4,
+            "year": 2015,
+            "date": "06-07-2015",
+            "latitude": 46.398,
+            "longitude": -112.733
+        },
+        {
+            "id": 100,
+            "city": "Cleveland",
+            "state": "OH",
+            "victims": 3,
+            "year": 2015,
+            "date": "05-31-2015",
+            "latitude": 41.477,
+            "longitude": -81.681
+        },
+        {
+            "id": 101,
+            "city": "Conyers",
+            "state": "GA",
+            "victims": 4,
+            "year": 2015,
+            "date": "05-31-2015",
+            "latitude": 33.661,
+            "longitude": -84.027
+        },
+        {
+            "id": 102,
+            "city": "Decatur",
+            "state": "IL",
+            "victims": 5,
+            "year": 2015,
+            "date": "05-25-2015",
+            "latitude": 39.856,
+            "longitude": -88.933
+        },
+        {
+            "id": 103,
+            "city": "Tucson",
+            "state": "AZ",
+            "victims": 4,
+            "year": 2015,
+            "date": "05-12-2015",
+            "latitude": 32.154,
+            "longitude": -110.968
+        },
+        {
+            "id": 104,
+            "city": "Newark",
+            "state": "NJ",
+            "victims": 4,
+            "year": 2015,
+            "date": "05-10-2015",
+            "latitude": 40.732,
+            "longitude": -74.184
+        },
+        {
+            "id": 105,
+            "city": "Menasha",
+            "state": "WI",
+            "victims": 4,
+            "year": 2015,
+            "date": "05-03-2015",
+            "latitude": 44.205,
+            "longitude": -88.448
+        },
+        {
+            "id": 106,
+            "city": "Milwaukee",
+            "state": "WI",
+            "victims": 5,
+            "year": 2015,
+            "date": "05-01-2015",
+            "latitude": 43.064,
+            "longitude": -87.967
+        },
+        {
+            "id": 107,
+            "city": "Gates",
+            "state": "NY",
+            "victims": 7,
+            "year": 2015,
+            "date": "04-25-2015",
+            "latitude": 43.157,
+            "longitude": -77.693
+        },
+        {
+            "id": 108,
+            "city": "Killeen",
+            "state": "TX",
+            "victims": 5,
+            "year": 2015,
+            "date": "04-21-2015",
+            "latitude": 31.079,
+            "longitude": -97.734
+        },
+        {
+            "id": 109,
+            "city": "Phoenix",
+            "state": "AZ",
+            "victims": 4,
+            "year": 2015,
+            "date": "04-16-2015",
+            "latitude": 33.571,
+            "longitude": -112.090
+        },
+        {
+            "id": 110,
+            "city": "Rome",
+            "state": "GA",
+            "victims": 4,
+            "year": 2015,
+            "date": "04-07-2015",
+            "latitude": 34.268,
+            "longitude": -85.188
+        },
+        {
+            "id": 111,
+            "city": "Indianapolis",
+            "state": "IN",
+            "victims": 5,
+            "year": 2015,
+            "date": "04-05-2015",
+            "latitude": 39.77,
+            "longitude": -86.146
+        },
+        {
+            "id": 112,
+            "city": "Daytona Beach",
+            "state": "FL",
+            "victims": 4,
+            "year": 2015,
+            "date": "04-03-2015",
+            "latitude": 29.193,
+            "longitude": -81.102
+        },
+        {
+            "id": 113,
+            "city": "Tulsa",
+            "state": "OK",
+            "victims": 3,
+            "year": 2015,
+            "date": "03-30-2015",
+            "latitude": 36.135,
+            "longitude": -95.913
+        },
+        {
+            "id": 114,
+            "city": "Panama City Beach",
+            "state": "FL",
+            "victims": 7,
+            "year": 2015,
+            "date": "03-28-2015",
+            "latitude": 30.225,
+            "longitude": -85.874
+        },
+        {
+            "id": 115,
+            "city": "Little Water",
+            "state": "NM",
+            "victims": 3,
+            "year": 2015,
+            "date": "03-19-2015",
+            "latitude": 36.443,
+            "longitude": -108.723
+        },
+        {
+            "id": 116,
+            "city": "Mesa",
+            "state": "AZ",
+            "victims": 6,
+            "year": 2015,
+            "date": "03-18-2015",
+            "latitude": 33.423,
+            "longitude": -111.816
+        },
+        {
+            "id": 117,
+            "city": "Cottonwood",
+            "state": "AL",
+            "victims": 3,
+            "year": 2015,
+            "date": "03-15-2015",
+            "latitude": 31.055,
+            "longitude": -85.301
+        },
+        {
+            "id": 118,
+            "city": "Brookhaven",
+            "state": "MI",
+            "victims": 5,
+            "year": 2015,
+            "date": "03-13-2015",
+            "latitude": 31.580,
+            "longitude": -90.443
+        },
+        {
+            "id": 119,
+            "city": "Tarboro",
+            "state": "NC",
+            "victims": 3,
+            "year": 2015,
+            "date": "02-28-2015",
+            "latitude": 35.904,
+            "longitude": -77.556
+        },
+        {
+            "id": 120,
+            "city": "Birmingham",
+            "state": "AL",
+            "victims": 3,
+            "year": 2015,
+            "date": "02-27-2015",
+            "latitude": 33.528,
+            "longitude": -86.796
+        },
+        {
+            "id": 121,
+            "city": "Tyrone",
+            "state": "MO",
+            "victims": 8,
+            "year": 2015,
+            "date": "02-26-2015",
+            "latitude": 37.204,
+            "longitude": -91.877
+        },
+        {
+            "id": 122,
+            "city": "Charlotte",
+            "state": "NC",
+            "victims": 3,
+            "year": 2015,
+            "date": "02-24-2015",
+            "latitude": 35.226,
+            "longitude": -80.837
+        },
+        {
+            "id": 123,
+            "city": "Clarkesville",
+            "state": "GA",
+            "victims": 4,
+            "year": 2015,
+            "date": "02-22-2015",
+            "latitude": 34.610,
+            "longitude": -83.529
+        },
+        {
+            "id": 124,
+            "city": "Killeen",
+            "state": "TX",
+            "victims": 4,
+            "year": 2015,
+            "date": "02-22-2015",
+            "latitude": 31.079,
+            "longitude": -97.734
+        },
+        {
+            "id": 125,
+            "city": "Chapel Hill",
+            "state": "NC",
+            "victims": 3,
+            "year": 2015,
+            "date": "02-10-2015",
+            "latitude": 35.927,
+            "longitude": -79.039
+        },
+        {
+            "id": 126,
+            "city": "New Port Richey",
+            "state": "FL",
+            "victims": 4,
+            "year": 2015,
+            "date": "02-09-2015",
+            "latitude": 28.247,
+            "longitude": -82.717
+        },
+        {
+            "id": 127,
+            "city": "Monroeville",
+            "state": "PA",
+            "victims": 3,
+            "year": 2015,
+            "date": "02-07-2015",
+            "latitude": 40.426,
+            "longitude": -79.761
+        },
+        {
+            "id": 128,
+            "city": "Douglasville",
+            "state": "GA",
+            "victims": 6,
+            "year": 2015,
+            "date": "02-07-2015",
+            "latitude": 33.711,
+            "longitude": -84.716
+        },
+        {
+            "id": 129,
+            "city": "King",
+            "state": "NC",
+            "victims": 3,
+            "year": 2015,
+            "date": "02-04-2015",
+            "latitude": 36.276,
+            "longitude": -80.355
+        },
+        {
+            "id": 130,
+            "city": "Syracuse",
+            "state": "NY",
+            "victims": 6,
+            "year": 2015,
+            "date": "02-01-2015",
+            "latitude": 43.041,
+            "longitude": -76.144
+        },
+        {
+            "id": 131,
+            "city": "LaGrange",
+            "state": "GA",
+            "victims": 5,
+            "year": 2015,
+            "date": "01-28-2015",
+            "latitude": 33.036,
+            "longitude": -85.029
+        },
+        {
+            "id": 132,
+            "city": "New York City",
+            "state": "NY",
+            "victims": 4,
+            "year": 2015,
+            "date": "01-24-2015",
+            "latitude": 40.690,
+            "longitude": -73.872
+        },
+        {
+            "id": 133,
+            "city": "Omaha",
+            "state": "NE",
+            "victims": 8,
+            "year": 2015,
+            "date": "01-24-2015",
+            "latitude": 41.266,
+            "longitude": -96.054
+        },
+        {
+            "id": 134,
+            "city": "Moscow",
+            "state": "ID",
+            "victims": 4,
+            "year": 2015,
+            "date": "01-10-2015",
+            "latitude": 46.731,
+            "longitude": -116.999
+        },
+        {
+            "id": 135,
+            "city": "Memphis",
+            "state": "TN",
+            "victims": 5,
+            "year": 2015,
+            "date": "01-01-2015",
+            "latitude": 35.105,
+            "longitude": -89.977
+        },
+        {
+            "id": 136,
+            "city": "Pennsburg",
+            "state": "PA",
+            "victims": 7,
+            "year": 2014,
+            "date": "12-15-2014",
+            "latitude": 40.394,
+            "longitude": -75.496
+        },
+        {
+            "id": 137,
+            "city": "Morgantown",
+            "state": "WV",
+            "victims": 4,
+            "year": 2014,
+            "date": "12-01-2014",
+            "latitude": 39.634,
+            "longitude": -79.948
+        },
+        {
+            "id": 138,
+            "city": "Tallahassee",
+            "state": "FL",
+            "victims": 3,
+            "year": 2014,
+            "date": "11-19-2014",
+            "latitude": 30.455,
+            "longitude": -84.253
+        },
+        {
+            "id": 139,
+            "city": "Marysville",
+            "state": "WA",
+            "victims": 5,
+            "year": 2014,
+            "date": "10-24-2014",
+            "latitude": 48.048,
+            "longitude": -122.136
+        },
+        {
+            "id": 140,
+            "city": "Albuquerque",
+            "state": "NM",
+            "victims": 4,
+            "year": 2014,
+            "date": "08-08-2014",
+            "latitude": 35.153,
+            "longitude": -106.779
+        },
+        {
+            "id": 141,
+            "city": "New Orleans",
+            "state": "LA",
+            "victims": 10,
+            "year": 2014,
+            "date": "06-29-2014",
+            "latitude": 30.069,
+            "longitude": -89.931
+        },
+        {
+            "id": 142,
+            "city": "Las Vegas",
+            "state": "NV",
+            "victims": 3,
+            "year": 2014,
+            "date": "06-08-2014",
+            "latitude": 36.189,
+            "longitude": -115.326
+        },
+        {
+            "id": 143,
+            "city": "Seattle",
+            "state": "WA",
+            "victims": 3,
+            "year": 2014,
+            "date": "06-05-2014",
+            "latitude": 47.622,
+            "longitude": -122.324
+        },
+        {
+            "id": 144,
+            "city": "Isla Vista",
+            "state": "CA",
+            "victims": 10,
+            "year": 2014,
+            "date": "05-23-2014",
+            "latitude": 34.415,
+            "longitude": -119.858
+        },
+        {
+            "id": 145,
+            "city": "Kennesaw",
+            "state": "GA",
+            "victims": 6,
+            "year": 2014,
+            "date": "04-29-2014",
+            "latitude": 34.025,
+            "longitude": -84.618
+        },
+        {
+            "id": 146,
+            "city": "Killeen",
+            "state": "TX",
+            "victims": 19,
+            "year": 2014,
+            "date": "04-02-2014",
+            "latitude": 31.079,
+            "longitude": -97.734
+        },
+        {
+            "id": 147,
+            "city": "San Francisco",
+            "state": "CA",
+            "victims": 8,
+            "year": 2014,
+            "date": "03-23-2014",
+            "latitude": 37.755,
+            "longitude": -122.442
+        },
+        {
+            "id": 148,
+            "city": "Alturas",
+            "state": "CA",
+            "victims": 6,
+            "year": 2014,
+            "date": "02-20-2014",
+            "latitude": 41.491,
+            "longitude": -120.549
+        },
+        {
+            "id": 149,
+            "city": "Montgomery",
+            "state": "AL",
+            "victims": 8,
+            "year": 2013,
+            "date": "12-28-2013",
+            "latitude": 32.347,
+            "longitude": -86.267
+        },
+        {
+            "id": 150,
+            "city": "Los Angeles",
+            "state": "CA",
+            "victims": 4,
+            "year": 2013,
+            "date": "11-01-2013",
+            "latitude": 34.176,
+            "longitude": -118.540
+        },
+        {
+            "id": 151,
+            "city": "Sparks",
+            "state": "NV",
+            "victims": 3,
+            "year": 2013,
+            "date": "10-21-2013",
+            "latitude": 39.541,
+            "longitude": -119.748
+        },
+        {
+            "id": 152,
+            "city": "Washington D.C.",
+            "state": "DC",
+            "victims": 15,
+            "year": 2013,
+            "date": "09-16-2013",
+            "latitude": 38.905,
+            "longitude": -77.016
+        },
+        {
+            "id": 153,
+            "city": "Oklahoma",
+            "state": "OK",
+            "victims": 4,
+            "year": 2013,
+            "date": "08-14-2013",
+            "latitude": 35.468,
+            "longitude": -97.519
+        },
+        {
+            "id": 154,
+            "city": "Dallas",
+            "state": "TX",
+            "victims": 8,
+            "year": 2013,
+            "date": "08-07-2013",
+            "latitude": 32.795,
+            "longitude": -96.766
+        },
+        {
+            "id": 155,
+            "city": "Salsbury",
+            "state": "PA",
+            "victims": 6,
+            "year": 2013,
+            "date": "08-05-2013",
+            "latitude": 39.753,
+            "longitude": -79.084
+        },
+        {
+            "id": 156,
+            "city": "Hialeah",
+            "state": "FL",
+            "victims": 6,
+            "year": 2013,
+            "date": "07-26-2013",
+            "latitude": 25.853,
+            "longitude": -80.283
+        },
+        {
+            "id": 157,
+            "city": "Santa Monica",
+            "state": "CA",
+            "victims": 8,
+            "year": 2013,
+            "date": "06-07-2013",
+            "latitude": 34.023,
+            "longitude": -118.482
+        },
+        {
+            "id": 158,
+            "city": "Manchester",
+            "state": "IL",
+            "victims": 7,
+            "year": 2013,
+            "date": "03-24-2013",
+            "latitude": 39.542,
+            "longitude": -90.330
+        },
+        {
+            "id": 159,
+            "city": "Federal Way",
+            "state": "WA",
+            "victims": 4,
+            "year": 2013,
+            "date": "03-21-2013",
+            "latitude": 47.309,
+            "longitude": -122.336
+        },
+        {
+            "id": 160,
+            "city": "Mohwak",
+            "state": "NY",
+            "victims": 6,
+            "year": 2013,
+            "date": "03-13-2013",
+            "latitude": 43.010,
+            "longitude": -75.008
+        },
+        {
+            "id": 161,
+            "city": "Ladera Ranch",
+            "state": "CA",
+            "victims": 6,
+            "year": 2013,
+            "date": "02-19-2013",
+            "latitude": 33.550,
+            "longitude": -117.642
+        },
+        {
+            "id": 162,
+            "city": "Irvine",
+            "state": "CA",
+            "victims": 7,
+            "year": 2013,
+            "date": "02-03-2013",
+            "latitude": 33.678,
+            "longitude": -117.774
+        },
+        {
+            "id": 163,
+            "city": "Phoenix",
+            "state": "AZ",
+            "victims": 3,
+            "year": 2013,
+            "date": "01-30-2013",
+            "latitude": 33.571,
+            "longitude": -112.090
+        },
+        {
+            "id": 164,
+            "city": "Albuquerque",
+            "state": "NM",
+            "victims": 5,
+            "year": 2013,
+            "date": "01-19-2013",
+            "latitude": 35.153,
+            "longitude": -106.779
+        },
+        {
+            "id": 165,
+            "city": "Newtown",
+            "state": "CT",
+            "victims": 29,
+            "year": 2012,
+            "date": "12-14-2012",
+            "latitude": 41.412,
+            "longitude": -73.312
+        },
+        {
+            "id": 166,
+            "city": "Happy Valley",
+            "state": "OR",
+            "victims": 3,
+            "year": 2012,
+            "date": "12-11-2012",
+            "latitude": 45.449,
+            "longitude": -122.544
+        },
+        {
+            "id": 167,
+            "city": "Brookfield",
+            "state": "WI",
+            "victims": 7,
+            "year": 2012,
+            "date": "10-21-2012",
+            "latitude": 43.064,
+            "longitude": -88.123
+        },
+        {
+            "id": 168,
+            "city": "Miami",
+            "state": "FL",
+            "victims": 15,
+            "year": 2012,
+            "date": "09-28-2012",
+            "latitude": 25.797,
+            "longitude": -80.208
+        },
+        {
+            "id": 169,
+            "city": "Minneapolis",
+            "state": "MN",
+            "victims": 8,
+            "year": 2012,
+            "date": "09-27-2012",
+            "latitude": 44.964,
+            "longitude": -93.268
+        },
+        {
+            "id": 170,
+            "city": "Oak Creek",
+            "state": "WI",
+            "victims": 10,
+            "year": 2012,
+            "date": "08-05-2012",
+            "latitude": 42.880,
+            "longitude": -87.901
+        },
+        {
+            "id": 171,
+            "city": "Denver",
+            "state": "CO",
+            "victims": 70,
+            "year": 2012,
+            "date": "07-20-2012",
+            "latitude": 39.729,
+            "longitude": -104.983
+        },
+        {
+            "id": 172,
+            "city": "Auburn",
+            "state": "AL",
+            "victims": 6,
+            "year": 2012,
+            "date": "06-09-2012",
+            "latitude": 32.606,
+            "longitude": -85.490
+        },
+        {
+            "id": 173,
+            "city": "Seattle",
+            "state": "WA",
+            "victims": 6,
+            "year": 2012,
+            "date": "05-30-2012",
+            "latitude": 47.622,
+            "longitude": -122.324
+        },
+        {
+            "id": 174,
+            "city": "Tulsa",
+            "state": "OK",
+            "victims": 5,
+            "year": 2012,
+            "date": "04-06-2012",
+            "latitude": 36.135,
+            "longitude": -95.913
+        },
+        {
+            "id": 175,
+            "city": "Oakland",
+            "state": "CA",
+            "victims": 10,
+            "year": 2012,
+            "date": "04-02-2012",
+            "latitude": 37.792,
+            "longitude": -122.215
+        },
+        {
+            "id": 176,
+            "city": "Chardon",
+            "state": "OH",
+            "victims": 6,
+            "year": 2012,
+            "date": "02-27-2012",
+            "latitude": 41.580,
+            "longitude": -81.208
+        },
+        {
+            "id": 177,
+            "city": "Norcross",
+            "state": "GA",
+            "victims": 4,
+            "year": 2012,
+            "date": "02-22-2012",
+            "latitude": 33.941,
+            "longitude": -84.210
+        },
+        {
+            "id": 178,
+            "city": "Birmingham",
+            "state": "AL",
+            "victims": 5,
+            "year": 2012,
+            "date": "01-29-2012",
+            "latitude": 33.528,
+            "longitude": -86.796
+        },
+        {
+            "id": 179,
+            "city": "Seal Beach",
+            "state": "CA",
+            "victims": 9,
+            "year": 2011,
+            "date": "10-12-2011",
+            "latitude": 33.754,
+            "longitude": -118.072
+        },
+        {
+            "id": 180,
+            "city": "Carson City",
+            "state": "NV",
+            "victims": 11,
+            "year": 2011,
+            "date": "09-06-2011",
+            "latitude": 39.165,
+            "longitude": -119.776
+        },
+        {
+            "id": 181,
+            "city": "Grand Rapids",
+            "state": "MI",
+            "victims": 9,
+            "year": 2011,
+            "date": "07-07-2011",
+            "latitude": 42.969,
+            "longitude": -85.660
+        },
+        {
+            "id": 182,
+            "city": "Opelika",
+            "state": "AL",
+            "victims": 4,
+            "year": 2011,
+            "date": "04-06-2011",
+            "latitude": 32.662,
+            "longitude": -85.377
+        },
+        {
+            "id": 183,
+            "city": "Youngstown",
+            "state": "OH",
+            "victims": 12,
+            "year": 2011,
+            "date": "02-06-2011",
+            "latitude": 41.099,
+            "longitude": -80.646
+        },
+        {
+            "id": 184,
+            "city": "Tucson",
+            "state": "AZ",
+            "victims": 19,
+            "year": 2011,
+            "date": "01-08-2011",
+            "latitude": 32.154,
+            "longitude": -110.968
+        },
+        {
+            "id": 185,
+            "city": "Manchester",
+            "state": "CT",
+            "victims": 10,
+            "year": 2010,
+            "date": "08-03-2010",
+            "latitude": 41.780,
+            "longitude": -72.519
+        },
+        {
+            "id": 186,
+            "city": "Huntsville",
+            "state": "AL",
+            "victims": 6,
+            "year": 2010,
+            "date": "02-12-2010",
+            "latitude": 34.728,
+            "longitude": -86.672
+        },
+        {
+            "id": 187,
+            "city": "Lakewood",
+            "state": "WA",
+            "victims": 4,
+            "year": 2009,
+            "date": "11-29-2009",
+            "latitude": 47.163,
+            "longitude": -122.530
+        },
+        {
+            "id": 188,
+            "city": "Fort Hood",
+            "state": "TX",
+            "victims": 45,
+            "year": 2009,
+            "date": "11-05-2009",
+            "latitude": 31.138,
+            "longitude": -97.778
+        },
+        {
+            "id": 189,
+            "city": "Binghamton",
+            "state": "NY",
+            "victims": 17,
+            "year": 2009,
+            "date": "04-03-2009",
+            "latitude": 42.101,
+            "longitude": -75.909
+        },
+        {
+            "id": 190,
+            "city": "Santa Clara",
+            "state": "CA",
+            "victims": 6,
+            "year": 2009,
+            "date": "03-29-2009",
+            "latitude": 37.365,
+            "longitude": -121.968
+        },
+        {
+            "id": 191,
+            "city": "Carthage",
+            "state": "NC",
+            "victims": 10,
+            "year": 2009,
+            "date": "03-29-2009",
+            "latitude": 35.340,
+            "longitude": -79.414
+        },
+        {
+            "id": 192,
+            "city": "Geveva",
+            "state": "AL",
+            "victims": 16,
+            "year": 2009,
+            "date": "03-10-2009",
+            "latitude": 31.044,
+            "longitude": -85.876
+        },
+        {
+            "id": 193,
+            "city": "Covina",
+            "state": "CA",
+            "victims": 11,
+            "year": 2008,
+            "date": "12-24-2008",
+            "latitude": 34.090,
+            "longitude": -117.882
+        },
+        {
+            "id": 194,
+            "city": "Conway",
+            "state": "AR",
+            "victims": 3,
+            "year": 2008,
+            "date": "10-26-2008",
+            "latitude": 35.081,
+            "longitude": -92.433
+        },
+        {
+            "id": 195,
+            "city": "Phoenix",
+            "state": "AZ",
+            "victims": 3,
+            "year": 2008,
+            "date": "07-24-2008",
+            "latitude": 33.571,
+            "longitude": -112.090
+        },
+        {
+            "id": 196,
+            "city": "Henderson",
+            "state": "KY",
+            "victims": 7,
+            "year": 2008,
+            "date": "06-25-2008",
+            "latitude": 37.840,
+            "longitude": -87.579
+        },
+        {
+            "id": 197,
+            "city": "DeKalb",
+            "state": "IL",
+            "victims": 22,
+            "year": 2008,
+            "date": "02-14-2008",
+            "latitude": 41.932,
+            "longitude": -88.748
+        },
+        {
+            "id": 198,
+            "city": "Kirkwood",
+            "state": "MO",
+            "victims": 7,
+            "year": 2008,
+            "date": "02-07-2008",
+            "latitude": 38.579,
+            "longitude": -90.420
+        },
+        {
+            "id": 199,
+            "city": "Carnation",
+            "state": "WA",
+            "victims": 6,
+            "year": 2007,
+            "date": "12-24-2007",
+            "latitude": 47.646,
+            "longitude": -121.909
+        },
+        {
+            "id": 200,
+            "city": "Las Vegas",
+            "state": "NV",
+            "victims": 6,
+            "year": 2007,
+            "date": "12-11-2007",
+            "latitude": 36.189,
+            "longitude": -115.326
+        },
+        {
+            "id": 201,
+            "city": "Arvada",
+            "state": "CO",
+            "victims": 9,
+            "year": 2007,
+            "date": "12-9-2007",
+            "latitude": 39.811,
+            "longitude": -105.174
+        },
+        {
+            "id": 202,
+            "city": "Omaha",
+            "state": "NE",
+            "victims": 12,
+            "year": 2007,
+            "date": "12-05-2007",
+            "latitude": 41.266,
+            "longitude": -96.054
+        },
+        {
+            "id": 203,
+            "city": "Saginaw",
+            "state": "MI",
+            "victims": 4,
+            "year": 2007,
+            "date": "10-25-2007",
+            "latitude": 43.419,
+            "longitude": -83.950
+        },
+        {
+            "id": 204,
+            "city": "Cleveland",
+            "state": "OH",
+            "victims": 4,
+            "year": 2007,
+            "date": "10-11-2007",
+            "latitude": 41.477,
+            "longitude": -81.681
+        },
+        {
+            "id": 205,
+            "city": "Crandon",
+            "state": "WI",
+            "victims": 7,
+            "year": 2007,
+            "date": "10-07-2007",
+            "latitude": 45.569,
+            "longitude": -88.897
+        },
+        {
+            "id": 206,
+            "city": "Blacksburg",
+            "state": "VA",
+            "victims": 49,
+            "year": 2007,
+            "date": "04-16-2007",
+            "latitude": 37.230,
+            "longitude": -80.428
+        },
+        {
+            "id": 207,
+            "city": "Gresham",
+            "state": "OR",
+            "victims": 10,
+            "year": 2007,
+            "date": "04-10-2007",
+            "latitude": 45.502,
+            "longitude": -122.441
+        },
+        {
+            "id": 208,
+            "city": "Salt Lake City",
+            "state": "UT",
+            "victims": 9,
+            "year": 2007,
+            "date": "02-12-2007",
+            "latitude": 40.778,
+            "longitude": -111.931
+        },
+        {
+            "id": 209,
+            "city": "Lancaster",
+            "state": "PA",
+            "victims": 10,
+            "year": 2006,
+            "date": "10-02-2006",
+            "latitude": 40.042,
+            "longitude": -76.301
+        },
+        {
+            "id": 210,
+            "city": "Pittsburgh",
+            "state": "PA",
+            "victims": 5,
+            "year": 2006,
+            "date": "09-17-2006",
+            "latitude": 40.439,
+            "longitude": -79.976
+        },
+        {
+            "id": 211,
+            "city": "Hillsborough",
+            "state": "NC",
+            "victims": 3,
+            "year": 2006,
+            "date": "08-30-2006",
+            "latitude": 36.041,
+            "longitude": -79.097
+        },
+        {
+            "id": 212,
+            "city": "Essex Junction",
+            "state": "VT",
+            "victims": 4,
+            "year": 2006,
+            "date": "08-24-2006",
+            "latitude": 44.490,
+            "longitude": -73.114
+        },
+        {
+            "id": 213,
+            "city": "Seattle",
+            "state": "WA",
+            "victims": 8,
+            "year": 2006,
+            "date": "03-25-2006",
+            "latitude": 47.622,
+            "longitude": -122.324
+        },
+        {
+            "id": 214,
+            "city": "Goleta",
+            "state": "CA",
+            "victims": 7,
+            "year": 2006,
+            "date": "01-30-2006",
+            "latitude": 34.436,
+            "longitude": -119.859
+        },
+        {
+            "id": 215,
+            "city": "Red Lake",
+            "state": "MN",
+            "victims": 14,
+            "year": 2005,
+            "date": "03-21-2005",
+            "latitude": 47.871,
+            "longitude": -95.005
+        },
+        {
+            "id": 216,
+            "city": "Brookfield",
+            "state": "WI",
+            "victims": 11,
+            "year": 2005,
+            "date": "03-12-2005",
+            "latitude": 43.064,
+            "longitude": -88.123
+        },
+        {
+            "id": 217,
+            "city": "Tyler",
+            "state": "TX",
+            "victims": 6,
+            "year": 2005,
+            "date": "02-24-2005",
+            "latitude": 32.315,
+            "longitude": -95.305
+        },
+        {
+            "id": 218,
+            "city": "Columbus",
+            "state": "OH",
+            "victims": 11,
+            "year": 2004,
+            "date": "12-08-2004",
+            "latitude": 39.989,
+            "longitude": -82.989
+        },
+        {
+            "id": 219,
+            "city": "Birchwood",
+            "state": "WI",
+            "victims": 8,
+            "year": 2004,
+            "date": "11-21-2004",
+            "latitude": 45.658,
+            "longitude": -91.551
+        },
+        {
+            "id": 220,
+            "city": "Chicago",
+            "state": "IL",
+            "victims": 6,
+            "year": 2003,
+            "date": "08-27-2003",
+            "latitude": 41.839,
+            "longitude": -87.688
+        },
+        {
+            "id": 221,
+            "city": "Meridian",
+            "state": "MS",
+            "victims": 14,
+            "year": 2003,
+            "date": "07-08-2003",
+            "latitude": 32.385,
+            "longitude": -88.690
+        },
+        {
+            "id": 222,
+            "city": "Cleveland",
+            "state": "OH",
+            "victims": 3,
+            "year": 2003,
+            "date": "05-09-2003",
+            "latitude": 41.477,
+            "longitude": -81.681
+        },
+        {
+            "id": 223,
+            "city": "Tucson",
+            "state": "AZ",
+            "victims": 3,
+            "year": 2002,
+            "date": "10-28-2002",
+            "latitude": 32.154,
+            "longitude": -110.968
+        },
+        {
+            "id": 224,
+            "city": "Grundy",
+            "state": "VA",
+            "victims": 6,
+            "year": 2002,
+            "date": "01-16-2002",
+            "latitude": 37.275,
+            "longitude": -82.099
+        },
+        {
+            "id": 225,
+            "city": "San Diego",
+            "state": "CA",
+            "victims": 15,
+            "year": 2001,
+            "date": "03-05-2001",
+            "latitude": 32.864,
+            "longitude": -117.128
+        },
+        {
+            "id": 226,
+            "city": "Melrose Park",
+            "state": "IL",
+            "victims": 9,
+            "year": 2001,
+            "date": "02-05-2001",
+            "latitude": 41.903,
+            "longitude": -87.864
+        },
+        {
+            "id": 227,
+            "city": "Boston",
+            "state": "MA",
+            "victims": 7,
+            "year": 2000,
+            "date": "12-26-2000",
+            "latitude": 42.309,
+            "longitude": -71.103
+        },
+        {
+            "id": 228,
+            "city": "Tampa",
+            "state": "FL",
+            "victims": 8,
+            "year": 1999,
+            "date": "12-30-1999",
+            "latitude": 27.996,
+            "longitude": -82.445
+        },
+        {
+            "id": 229,
+            "city": "Fort Gibson",
+            "state": "OK",
+            "victims": 4,
+            "year": 1999,
+            "date": "12-06-1999",
+            "latitude": 35.777,
+            "longitude": -95.260
+        },
+        {
+            "id": 230,
+            "city": "Honolulu",
+            "state": "HI",
+            "victims": 7,
+            "year": 1999,
+            "date": "11-02-1999",
+            "latitude": 21.309,
+            "longitude": -157.845
+        },
+        {
+            "id": 231,
+            "city": "Fort Worth",
+            "state": "TX",
+            "victims": 14,
+            "year": 1999,
+            "date": "09-15-1999",
+            "latitude": 32.748,
+            "longitude": -97.313
+        },
+        {
+            "id": 232,
+            "city": "Atlanta",
+            "state": "GA",
+            "victims": 21,
+            "year": 1999,
+            "date": "07-29-1999",
+            "latitude": 33.763,
+            "longitude": -84.423
+        },
+        {
+            "id": 233,
+            "city": "Conyers",
+            "state": "GA",
+            "victims": 6,
+            "year": 1999,
+            "date": "05-20-1999",
+            "latitude": 33.661,
+            "longitude": -84.027
+        },
+        {
+            "id": 234,
+            "city": "Littleton",
+            "state": "CO",
+            "victims": 37,
+            "year": 1999,
+            "date": "04-20-1999",
+            "latitude": 39.594,
+            "longitude": -105.015
+        },
+        {
+            "id": 235,
+            "city": "Riverside",
+            "state": "CA",
+            "victims": 6,
+            "year": 1998,
+            "date": "10-06-1998",
+            "latitude": 33.938,
+            "longitude": -117.395
+        },
+        {
+            "id": 236,
+            "city": "Springfield",
+            "state": "OR",
+            "victims": 29,
+            "year": 1998,
+            "date": "05-21-1998",
+            "latitude": 44.055,
+            "longitude": -123.008
+        },
+        {
+            "id": 237,
+            "city": "Edinboro",
+            "state": "PA",
+            "victims": 4,
+            "year": 1998,
+            "date": "04-24-1998",
+            "latitude": 41.876,
+            "longitude": -80.125
+        },
+        {
+            "id": 238,
+            "city": "Jonesboro",
+            "state": "AR",
+            "victims": 15,
+            "year": 1998,
+            "date": "03-24-1998",
+            "latitude": 35.821,
+            "longitude": -90.680
+        },
+        {
+            "id": 239,
+            "city": "Newington",
+            "state": "CT",
+            "victims": 4,
+            "year": 1998,
+            "date": "03-06-1998",
+            "latitude": 41.687,
+            "longitude": -72.731
+        },
+        {
+            "id": 240,
+            "city": "Milwaukee",
+            "state": "WI",
+            "victims": 3,
+            "year": 1997,
+            "date": "12-19-1997",
+            "latitude": 43.064,
+            "longitude": -87.967
+        },
+        {
+            "id": 241,
+            "city": "Orange",
+            "state": "CA",
+            "victims": 6,
+            "year": 1997,
+            "date": "12-18-1997",
+            "latitude": 33.789,
+            "longitude": -117.820
+        },
+        {
+            "id": 242,
+            "city": "West Paducah",
+            "state": "KY",
+            "victims": 8,
+            "year": 1997,
+            "date": "12-01-1997",
+            "latitude": 37.085,
+            "longitude": -88.744
+        },
+        {
+            "id": 243,
+            "city": "Pearl",
+            "state": "MS",
+            "victims": 9,
+            "year": 1997,
+            "date": "10-01-1997",
+            "latitude": 32.275,
+            "longitude": -90.095
+        },
+        {
+            "id": 244,
+            "city": "Aiken",
+            "state": "SC",
+            "victims": 7,
+            "year": 1997,
+            "date": "09-15-1997",
+            "latitude": 33.475,
+            "longitude": -81.726
+        },
+        {
+            "id": 245,
+            "city": "Bethel",
+            "state": "AK",
+            "victims": 4,
+            "year": 1997,
+            "date": "02-19-1997",
+            "latitude": 60.791,
+            "longitude": -161.793
+        },
+        {
+            "id": 246,
+            "city": "San Diego",
+            "state": "CA",
+            "victims": 3,
+            "year": 1996,
+            "date": "08-15-1996",
+            "latitude": 32.864,
+            "longitude": -117.128
+        },
+        {
+            "id": 247,
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "victims": 6,
+            "year": 1996,
+            "date": "02-09-1996",
+            "latitude": 26.117,
+            "longitude": -80.149
+        },
+        {
+            "id": 248,
+            "city": "Moses Lake",
+            "state": "WA",
+            "victims": 4,
+            "year": 1996,
+            "date": "02-02-1996",
+            "latitude": 47.122,
+            "longitude": -119.275
+        },
+        {
+            "id": 249,
+            "city": "Lynnville",
+            "state": "TN",
+            "victims": 3,
+            "year": 1995,
+            "date": "11-15-1995",
+            "latitude": 35.378,
+            "longitude": -87.006
+        },
+        {
+            "id": 250,
+            "city": "Corpus Christi",
+            "state": "TX",
+            "victims": 5,
+            "year": 1995,
+            "date": "04-03-1995",
+            "latitude": 27.739,
+            "longitude": -97.431
+        },
+        {
+            "id": 251,
+            "city": "Montclair",
+            "state": "NJ",
+            "victims": 5,
+            "year": 1995,
+            "date": "03-21-1995",
+            "latitude": 40.826,
+            "longitude": -74.209
+        },
+        {
+            "id": 252,
+            "city": "Chapel Hill",
+            "state": "NC",
+            "victims": 4,
+            "year": 1995,
+            "date": "01-26-1995",
+            "latitude": 35.927,
+            "longitude": -79.039
+        },
+        {
+            "id": 253,
+            "city": "Brookline",
+            "state": "MA",
+            "victims": 7,
+            "year": 1994,
+            "date": "12-30-1994",
+            "latitude": 42.324,
+            "longitude": -71.141
+        },
+        {
+            "id": 254,
+            "city": "Wickliffe",
+            "state": "OH",
+            "victims": 4,
+            "year": 1994,
+            "date": "11-07-1994",
+            "latitude": 41.607,
+            "longitude": -81.469
+        },
+        {
+            "id": 255,
+            "city": "Fairchild Air Froce Base",
+            "state": "WA",
+            "victims": 27,
+            "year": 1994,
+            "date": "06-20-1994",
+            "latitude": 47.618,
+            "longitude": -117.644
+        },
+        {
+            "id": 256,
+            "city": "Union",
+            "state": "KY",
+            "victims": 4,
+            "year": 1994,
+            "date": "05-26-1994",
+            "latitude": 38.951,
+            "longitude": -84.671
+        },
+        {
+            "id": 257,
+            "city": "Chelsea",
+            "state": "MI",
+            "victims": 3,
+            "year": 1993,
+            "date": "12-16-1993",
+            "latitude": 42.313,
+            "longitude": -84.019
+        },
+        {
+            "id": 258,
+            "city": "Aurora",
+            "state": "CO",
+            "victims": 5,
+            "year": 1993,
+            "date": "12-14-1993",
+            "latitude": 39.699,
+            "longitude": -104.787
+        },
+        {
+            "id": 259,
+            "city": "Garden City",
+            "state": "NY",
+            "victims": 25,
+            "year": 1993,
+            "date": "12-07-1993",
+            "latitude": 40.727,
+            "longitude": -73.645
+        },
+        {
+            "id": 260,
+            "city": "Sheridan",
+            "state": "WY",
+            "victims": 4,
+            "year": 1993,
+            "date": "09-17-1993",
+            "latitude": 44.791,
+            "longitude": -106.960
+        },
+        {
+            "id": 261,
+            "city": "Fayetteville",
+            "state": "NC",
+            "victims": 12,
+            "year": 1993,
+            "date": "08-06-1993",
+            "latitude": 35.080,
+            "longitude": -79.038
+        },
+        {
+            "id": 262,
+            "city": "Ogden",
+            "state": "UT",
+            "victims": 3,
+            "year": 1993,
+            "date": "07-08-1993",
+            "latitude": 41.228,
+            "longitude": -111.968
+        },
+        {
+            "id": 263,
+            "city": "San Francisco",
+            "state": "CA",
+            "victims": 14,
+            "year": 1993,
+            "date": "07-01-1993",
+            "latitude": 37.755,
+            "longitude": -122.442
+        },
+        {
+            "id": 264,
+            "city": "Dana Point",
+            "state": "CA",
+            "victims": 6,
+            "year": 1993,
+            "date": "05-06-1993",
+            "latitude": 33.472,
+            "longitude": -117.696
+        },
+        {
+            "id": 265,
+            "city": "Dearborn",
+            "state": "MI",
+            "victims": 3,
+            "year": 1993,
+            "date": "05-06-1993",
+            "latitude": 42.313,
+            "longitude": -83.213
+        },
+        {
+            "id": 266,
+            "city": "Great Barrington",
+            "state": "MA",
+            "victims": 6,
+            "year": 1992,
+            "date": "12-14-1992",
+            "latitude": 42.194,
+            "longitude": -73.362
+        },
+        {
+            "id": 267,
+            "city": "Watkins Glen",
+            "state": "NY",
+            "victims": 4,
+            "year": 1992,
+            "date": "10-15-1992",
+            "latitude": 42.380,
+            "longitude": -76.867
+        },
+        {
+            "id": 268,
+            "city": "Amarillo",
+            "state": "TX",
+            "victims": 6,
+            "year": 1992,
+            "date": "09-11-1992",
+            "latitude": 35.183,
+            "longitude": -101.881
+        },
+        {
+            "id": 269,
+            "city": "Olivehurst",
+            "state": "CA",
+            "victims": 14,
+            "year": 1992,
+            "date": "05-01-1992",
+            "latitude": 39.082,
+            "longitude": -121.555
+        },
+        {
+            "id": 270,
+            "city": "Royal Oak",
+            "state": "MI",
+            "victims": 9,
+            "year": 1991,
+            "date": "11-14-1991",
+            "latitude": 42.508,
+            "longitude": -83.154
+        },
+        {
+            "id": 271,
+            "city": "Iowa City",
+            "state": "IA",
+            "victims": 6,
+            "year": 1991,
+            "date": "11-01-1991",
+            "latitude": 41.656,
+            "longitude": -91.531
+        },
+        {
+            "id": 272,
+            "city": "Killeen",
+            "state": "TX",
+            "victims": 43,
+            "year": 1991,
+            "date": "10-16-1991",
+            "latitude": 31.079,
+            "longitude": -97.734
+        },
+        {
+            "id": 273,
+            "city": "Ridgewood",
+            "state": "NJ",
+            "victims": 3,
+            "year": 1991,
+            "date": "10-10-1991",
+            "latitude": 40.982,
+            "longitude": -74.113
+        },
+        {
+            "id": 274,
+            "city": "Phoenix",
+            "state": "AZ",
+            "victims": 9,
+            "year": 1991,
+            "date": "08-09-1991",
+            "latitude": 33.571,
+            "longitude": -112.090
+        },
+        {
+            "id": 275,
+            "city": "Jacksonville",
+            "state": "FL",
+            "victims": 17,
+            "year": 1990,
+            "date": "06-17-1990",
+            "latitude": 30.332,
+            "longitude": -81.676
+        },
+        {
+            "id": 276,
+            "city": "Louisville",
+            "state": "KY",
+            "victims": 20,
+            "year": 1989,
+            "date": "09-14-1989",
+            "latitude": 38.249,
+            "longitude": -85.726
+        },
+        {
+            "id": 277,
+            "city": "Escondido",
+            "state": "CA",
+            "victims": 4,
+            "year": 1989,
+            "date": "08-10-1989",
+            "latitude": 33.134,
+            "longitude": -117.072
+        },
+        {
+            "id": 278,
+            "city": "Stockton",
+            "state": "CA",
+            "victims": 35,
+            "year": 1989,
+            "date": "01-17-1989",
+            "latitude": 37.966,
+            "longitude": -121.302
+        },
+        {
+            "id": 279,
+            "city": "New Orleans",
+            "state": "LA",
+            "victims": 4,
+            "year": 1988,
+            "date": "12-14-1988",
+            "latitude": 30.069,
+            "longitude": -89.931
+        },
+        {
+            "id": 280,
+            "city": "Greenwood",
+            "state": "SC",
+            "victims": 11,
+            "year": 1988,
+            "date": "09-26-1988",
+            "latitude": 34.193,
+            "longitude": -82.154
+        },
+        {
+            "id": 281,
+            "city": "Chicago",
+            "state": "IL",
+            "victims": 6,
+            "year": 1988,
+            "date": "09-22-1988",
+            "latitude": 41.839,
+            "longitude": -87.688
+        },
+        {
+            "id": 282,
+            "city": "Winnetka",
+            "state": "IL",
+            "victims": 8,
+            "year": 1988,
+            "date": "05-20-1988",
+            "latitude": 42.106,
+            "longitude": -87.742
+        },
+        {
+            "id": 283,
+            "city": "Sunnyvale",
+            "state": "CA",
+            "victims": 11,
+            "year": 1988,
+            "date": "02-16-1988",
+            "latitude": 37.383,
+            "longitude": -122.026
+        },
+        {
+            "id": 284,
+            "city": "Pinellas",
+            "state": "FL",
+            "victims": 3,
+            "year": 1988,
+            "date": "02-11-1988",
+            "latitude": 27.849,
+            "longitude": -82.711
+        },
+        {
+            "id": 285,
+            "city": "Palm Bay",
+            "state": "FL",
+            "victims": 20,
+            "year": 1987,
+            "date": "04-23-1987",
+            "latitude": 27.984,
+            "longitude": -80.667
+        },
+        {
+            "id": 286,
+            "city": "Lewiston",
+            "state": "MT",
+            "victims": 4,
+            "year": 1986,
+            "date": "12-04-1986",
+            "latitude": 47.037,
+            "longitude": -109.484
+        },
+        {
+            "id": 287,
+            "city": "Edmond",
+            "state": "OK",
+            "victims": 20,
+            "year": 1986,
+            "date": "08-20-1986",
+            "latitude": 35.669,
+            "longitude": -97.414
+        },
+        {
+            "id": 288,
+            "city": "Brooklyn",
+            "state": "NY",
+            "victims": 5,
+            "year": 1986,
+            "date": "08-12-1986",
+            "latitude": 40.679,
+            "longitude": -73.940
+        },
+        {
+            "id": 289,
+            "city": "Atlanta",
+            "state": "GA",
+            "victims": 3,
+            "year": 1985,
+            "date": "03-06-1985",
+            "latitude": 33.763,
+            "longitude": -84.423
+        },
+        {
+            "id": 290,
+            "city": "Goddard",
+            "state": "KS",
+            "victims": 4,
+            "year": 1985,
+            "date": "01-21-1985",
+            "latitude": 37.671,
+            "longitude": -97.551
+        },
+        {
+            "id": 291,
+            "city": "San Ysidro",
+            "state": "CA",
+            "victims": 40,
+            "year": 1984,
+            "date": "07-18-1984",
+            "latitude": 32.556,
+            "longitude": -117.048
+        },
+        {
+            "id": 292,
+            "city": "Dallas",
+            "state": "TX",
+            "victims": 7,
+            "year": 1984,
+            "date": "06-29-1984",
+            "latitude": 32.795,
+            "longitude": -96.766
+        },
+        {
+            "id": 293,
+            "city": "Los Angeles",
+            "state": "CA",
+            "victims": 14,
+            "year": 1984,
+            "date": "02-24-1984",
+            "latitude": 34.176,
+            "longitude": -118.540
+        },
+        {
+            "id": 294,
+            "city": "Johnston",
+            "state": "SC",
+            "victims": 4,
+            "year": 1983,
+            "date": "08-19-1983",
+            "latitude": 33.833,
+            "longitude": -81.805
+        },
+        {
+            "id": 295,
+            "city": "Seattle",
+            "state": "WA",
+            "victims": 14,
+            "year": 1983,
+            "date": "02-18-1983",
+            "latitude": 47.622,
+            "longitude": -122.324
+        },
+        {
+            "id": 296,
+            "city": "Miami",
+            "state": "FL",
+            "victims": 11,
+            "year": 1982,
+            "date": "08-20-1982",
+            "latitude": 25.797,
+            "longitude": -80.208
+        },
+        {
+            "id": 297,
+            "city": "Las Vegas",
+            "state": "NV",
+            "victims": 3,
+            "year": 1982,
+            "date": "03-19-1982",
+            "latitude": 36.189,
+            "longitude": -115.326
+        },
+        {
+            "id": 298,
+            "city": "Columbia",
+            "state": "SC",
+            "victims": 7,
+            "year": 1979,
+            "date": "10-6-1979",
+            "latitude": 34.051,
+            "longitude": -80.821
+        },
+        {
+            "id": 299,
+            "city": "San Diego",
+            "state": "CA",
+            "victims": 11,
+            "year": 1979,
+            "date": "01-29-1979",
+            "latitude": 32.864,
+            "longitude": -117.128
+        },
+        {
+            "id": 300,
+            "city": "Fullerton",
+            "state": "CA",
+            "victims": 9,
+            "year": 1976,
+            "date": "07-12-1976",
+            "latitude": 33.884,
+            "longitude": -117.928
+        },
+        {
+            "id": 301,
+            "city": "Los Angeles",
+            "state": "CA",
+            "victims": 8,
+            "year": 1976,
+            "date": "02-19-1976",
+            "latitude": 34.176,
+            "longitude": -118.540
+        },
+        {
+            "id": 302,
+            "city": "Olean",
+            "state": "NY",
+            "victims": 10,
+            "year": 1974,
+            "date": "12-30-1974",
+            "latitude": 42.082,
+            "longitude": -78.432
+        },
+        {
+            "id": 303,
+            "city": "Chicago",
+            "state": "IL",
+            "victims": 4,
+            "year": 1974,
+            "date": "01-17-1974",
+            "latitude": 41.839,
+            "longitude": -87.688
+        },
+        {
+            "id": 304,
+            "city": "New Orleans",
+            "state": "LA",
+            "victims": 22,
+            "year": 1972,
+            "date": "12-31-1972",
+            "latitude": 30.069,
+            "longitude": -89.931
+        },
+        {
+            "id": 305,
+            "city": "Spokane",
+            "state": "WA",
+            "victims": 5,
+            "year": 1971,
+            "date": "11-11-1971",
+            "latitude": 47.674,
+            "longitude": -117.416
+        },
+        {
+            "id": 306,
+            "city": "Mesa",
+            "state": "AZ",
+            "victims": 6,
+            "year": 1966,
+            "date": "11-12-1966",
+            "latitude": 33.423,
+            "longitude": -111.816
+        },
+        {
+            "id": 307,
+            "city": "Austin",
+            "state": "TX",
+            "victims": 48,
+            "year": 1966,
+            "date": "08-01-1966",
+            "latitude": 30.199,
+            "longitude": -97.844
+        }
+    ]
