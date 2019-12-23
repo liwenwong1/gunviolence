@@ -1,0 +1,42 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "Total Gun Violence Deaths",
+            "value": 36170,
+            "children": [
+                {"name":"Non-Suicide", "value":13928, "children": [
+                    {"name": "Unintentional", "value": 367, "children": [
+                        {"name": "", "value": 367}
+                    ]},
+                    {"name": "Self-Defense", "value": 449, "children": [
+                        {"name": "", "value": 449}
+                    ]},
+                    {"name": "Homicide/Murder", "value": 13112, "children": [
+                        {"name": "Mass Shooting", "value": 433, "children": [
+                            {"name": "", "value": 433}
+                        ]},
+                        {"name": "Murder/Suicide", "value": 539, "children": [
+                            {"name": "", "value": 539}
+                        ]},
+                        {"name": "Legal Intervention", "value": 1176, "children": [
+                            {"name": "Officer Killed", "value": 65, "children": [
+                                {"name": "", "value": 65}
+                            ]},
+                            {"name": "Suspect Killed", "value": 1111, "children": [
+                                {"name": "", "value": 1111}
+                            ]}
+                        ]},
+                        {"name": "Willful/Malicious", "value": 10397, "children": [
+                            {"name": "", "value": 10397}
+                        ]}
+                    ]}
+                ]},
+                {"name":"Suicide", "value":22242, "children": [                            
+                    {"name": "", "value": 22242},
+                    {"name": "", "value": 22242}
+                ]}
+            ]
+        }
+    ]
+}
