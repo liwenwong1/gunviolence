@@ -77,16 +77,15 @@ div.tooltip {
   position: absolute;			
   text-align: center;			
   width: 140px;					
-  height: 100px;					
+  height: 105px;					
   padding: 2px;				
-  font: 14px sans-serif;		
-  background:rgb(224, 223, 223, 0.85);	
+  font: 15px sans-serif;		
+  background:rgba(255, 255, 255, 0.856);
   border: 0px;		
   border-radius: 8px;			
   pointer-events: none;		
-  color:black;
-  font-weight: bold;
-
+  color:rgb(34, 33, 33);
+ 
   
 }
 html {
@@ -220,4 +219,3 @@ li {
   padding-left: 50px;
 
 }
- 

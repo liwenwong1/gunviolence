@@ -156,7 +156,9 @@ function makeTimeline(dataForMap, dataForTimeline) {
       .attr("transform", "rotate(-90)")
       .attr("dy", "-0.1em")
       .style("text-anchor", "end")
-      .text("victims");
+      .style("font-size", "15px")
+
+     // .text("victims");
 
   // Add brush to timeline, hook up to callback
   var brush = d3.brushX()
@@ -208,7 +210,7 @@ function updateTitleText(newDateArray) {
           to =   (newDateArray[1].getMonth() + 1) + "/" +
                  (newDateArray[1].getDay() + 1) + "/" +
                  newDateArray[1].getFullYear();
-      title.text("Mass shootings between: " + from + " - " + to);
+      title.text( from + " - " + to + "            ");
   }
 }
 

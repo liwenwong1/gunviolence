@@ -89,7 +89,7 @@ export default function Bubble() {
                 d3.select(this).attr("stroke", "#000"); 
                 //d3.select(this).attr("opacity", "0.7");
                 d3.select("#info-box .cause").text("Cause of Death: " + d.data.name);
-                d3.select("#info-box .count").text("Count: " + d.data.value);
+                d3.select("#info-box .count").text("Count: " + d.data.value + " of 36170");
             })
             .on("mouseout", function() { 
                 d3.select(this).attr("stroke", null);
