@@ -11,8 +11,6 @@ let parseDate = d3.timeParse("%Y");
 let categoryData; 
 
 
-
-
 Promise.all([ // load multiple files
 	d3.json('data/us-10m.json'),
     d3.json('data/mass-shootings-in-america.json'),
