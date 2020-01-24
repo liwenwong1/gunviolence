@@ -60,6 +60,7 @@ function makeMap() {
           .data(data.features)
         .enter().append("path")
           .attr("class", "states")
+          .style("color", "gray")
           .attr("d", pathGenerator);
 
  
@@ -116,6 +117,8 @@ function makeTimeline(dataForMap, dataForTimeline) {
       .attr("class", "timeline")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+
+      
    x = d3.scaleTime()
       .domain(d3.extent(dataForTimeline.map(function(d) { return d.date; })))
       .range([0, width]);
